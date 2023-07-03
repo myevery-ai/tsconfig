@@ -1,0 +1,24 @@
+{
+  "name": "@myevery/tsconfig",
+  "version": "0.0.0",
+  "description": "myEvery UI TypeScript config",
+  "keywords": [
+    "typescript",
+    "config"
+  ],
+  "license": "MIT",
+  "files": [
+    "tsconfig.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/myevery-ai/tsconfig"
+  },
+  "bugs": {
+    "url": "https://github.com/myevery-ai/tsconfig/issues"
+  },
+  "homepage": "https://github.com/myevery-ai/tsconfig#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  }
+}
